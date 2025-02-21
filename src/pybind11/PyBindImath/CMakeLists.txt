@@ -13,6 +13,7 @@ set(PYBINDIMATH_SOURCES
     PyBindImathVec.cpp
     PyBindImathPlane.cpp
     PyBindImathLine.cpp
+    PyBindImathShear.cpp
     
     # PyBindImathEuler build Error pybind test
     # PyBindImathFrustum build failing
