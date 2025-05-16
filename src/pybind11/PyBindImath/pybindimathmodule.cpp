@@ -19,6 +19,7 @@ PYBIND11_MODULE(pybindimath, m)
     PyBindImath::register_imath_line(m);
     // PyBindImath::register_imath_euler(m)
     PyBindImath::register_imath_frustum(m);
+    PyBindImath::register_imath_quat(m);
 
 
     //
